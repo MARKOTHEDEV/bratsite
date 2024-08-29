@@ -14,7 +14,7 @@ const HowTo = ()=>{
                 <Card />
             </div>
             <br />
-            <Button className="bg-white text-[black] block mx-auto">
+            <Button className="bg-white !text-[black] block mx-auto">
                 Buy Brat
             </Button>
         </div>
